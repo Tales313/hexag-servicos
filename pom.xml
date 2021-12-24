@@ -6,7 +6,7 @@
 
     <groupId>servicos</groupId>
     <artifactId>servicos</artifactId>
-    <version>0.0.5-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>12</maven.compiler.source>
