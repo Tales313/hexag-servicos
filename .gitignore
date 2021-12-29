@@ -2,3 +2,5 @@
 target/
 *.iml
 /classes
+/out
+/META-INF
